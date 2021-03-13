@@ -34,7 +34,7 @@ void art(int x,int vis[],int dis[],int low[],int par[],int ap[] )
 		}
 }
 int main()
-{
+{  cout<<"type all the input\n";
 	int n,m;
 	cin>>n>>m;
 	int vis[n+1];
